@@ -1,4 +1,4 @@
-# Similarity_Prototype
+# SimilarityPrototype
  Code and the statistical similarity prototype for one manuscript.
 
 
